@@ -1,4 +1,4 @@
-public class getMinNumber {
+public class GetMinNumber {
     public static int min( int a, int b, int c){
         if (a < b && a < c) {
             return a;
